@@ -1,0 +1,17 @@
+{
+    "name": "Agenda de Unhas",
+    "short_name": "Agenda Unhas",
+    "description": "Aplicativo para organizar clientes e horários de unhas.",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "background_color": "#f7eef5",
+    "theme_color": "#8e4585",
+    "orientation": "portrait",
+    "icons": [
+      {
+        "src": "icon-192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
